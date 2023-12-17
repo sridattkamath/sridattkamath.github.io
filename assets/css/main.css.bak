@@ -3654,7 +3654,7 @@ input, select, textarea {
 
 				#contact > .inner > .split > * {
 					padding: 3em 0 1em 3em ;
-					position: relative;
+					position: absolute;
 				}
 
 					#contact > .inner > .split > *:before {
